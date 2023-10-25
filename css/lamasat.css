@@ -524,9 +524,8 @@ background-color: antiquewhite;
         height: 80%;
         margin-top: 100px;
         display: grid;
-        grid-template-columns: repeat(2,45%);
-        grid-template-rows: repeat(3,45%);
-        grid-gap: 5%;
+         grid-template-columns: repeat(1,80%);
+        grid-template-rows: repeat(6,65%);
     }
     .product-ul li{
         font-size: 12px;
