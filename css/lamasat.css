@@ -530,5 +530,8 @@ background-color: antiquewhite;
     .product-ul li{
         font-size: 12px;
     }
+    .product-overlay-ul i{
+        font-size: 60px;
+    }
 
 }
